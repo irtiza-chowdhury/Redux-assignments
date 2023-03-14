@@ -1,0 +1,103 @@
+{
+  "books": [
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Laura Dave",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": 13.99,
+      "rating": 4,
+      "featured": false,
+      "id": 2
+    },
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Mick Herron",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": 12,
+      "rating": 3,
+      "featured": false,
+      "id": 7
+    },
+    {
+      "name": "Eloquent JavaScript, 3rd Edition",
+      "author": "Marijn Haverbeke",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": 23.99,
+      "rating": 4,
+      "featured": true,
+      "id": 8
+    },
+    {
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41rxoi1jMQL._AC_SX184_.jpg",
+      "price": 12.1,
+      "rating": 5,
+      "featured": false,
+      "id": 10
+    },
+    {
+      "name": "Gone Girl",
+      "author": "Gilliian Flynn",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41oR8CLl6lL._AC_SX184_.jpg",
+      "price": 10.52,
+      "rating": 4,
+      "featured": true,
+      "id": 11
+    },
+    {
+      "name": "The fault in our starts",
+      "author": "Jhon green",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51ED6WxFy8L._AC_SX184_.jpg",
+      "price": 8.76,
+      "rating": 4,
+      "featured": true,
+      "id": 12
+    },
+    {
+      "name": "The Right stuff",
+      "author": "Tom Wolfe",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41PM7O6e2yL._AC_SX184_.jpg",
+      "price": 16.99,
+      "rating": 3,
+      "featured": false,
+      "id": 13
+    },
+    {
+      "name": "the secret history",
+      "author": "Donna Tartt",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41D987gPHiL._AC_SX184_.jpg",
+      "price": 12.52,
+      "rating": 4,
+      "featured": false,
+      "id": 14
+    },
+    {
+      "name": "devil in the white city",
+      "author": "Erik Larson",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41i6RKW1IXL._AC_SX184_.jpg",
+      "price": 9.41,
+      "rating": 3,
+      "featured": true,
+      "id": 15
+    },
+    {
+      "name": "The giver",
+      "author": "Lois Lowry",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51R8AA8QEVL._AC_SX184_.jpg",
+      "price": 22.57,
+      "rating": 4,
+      "featured": true,
+      "id": 16
+    },
+    {
+      "name": "Breath, eyes, memory",
+      "author": "Edwidge Danticat",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41yQjfWGKPL._AC_SX184_.jpg",
+      "price": 8.96,
+      "rating": 4,
+      "featured": false,
+      "id": 17
+    }
+  ]
+}
