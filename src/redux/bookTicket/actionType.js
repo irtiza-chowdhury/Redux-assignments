@@ -1,0 +1,5 @@
+export const FROMDESTINATION = "bookTicket/fromDestination"
+export const TODESTINATION = "bookTicket/toDestination"
+export const GUESTNUM = "bookTicket/guestNum"
+export const CLASSTYPE = "bookTicket/classType"
+export const JOURNEYDATE = "bookTicket/journeyDate"
