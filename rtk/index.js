@@ -10,7 +10,7 @@ const combineFunction = async () => {
   await store.dispatch(fetchVideo());
   const { video } = getState();
 
-  await store.dispatch(fetchRelatedVideo(video.tags))
+  await store.dispatch(fetchRelatedVideo(video.video.tags))
   
 };
 
